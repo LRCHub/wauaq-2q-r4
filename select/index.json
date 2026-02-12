@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Game",
+  "base_artist": "リゼ・ヘルエスタ",
+  "createdAt": "2026-02-12T06:06:01.003297Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lover's Game",
+      "artist": "The War and Treaty",
+      "has_synced": false,
+      "path": "select/01_Lover's_Game_The_War_and_Treaty.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "New Fool At An Old Game",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/02_New_Fool_At_An_Old_Game_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Game Over",
+      "artist": "彭坦",
+      "has_synced": false,
+      "path": "select/03_Game_Over_彭坦.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Is a Losing Game",
+      "artist": "Amy Winehouse",
+      "has_synced": true,
+      "path": "select/04_Love_Is_a_Losing_Game_Amy_Winehouse.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Betrayed by the Game",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/05_Betrayed_by_the_Game_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pen Game (feat. Skyzoo)",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/06_Pen_Game_(feat._Skyzoo)_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Game Show",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/07_Game_Show_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Game Show",
+      "artist": "Kelis",
+      "has_synced": false,
+      "path": "select/08_Game_Show_Kelis.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Game Theory",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/09_Game_Theory_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Call Up the Homies (feat. The Game & Willy Northpole)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/10_Call_Up_the_Homies_(feat._The_Game_&_Willy_Northpole)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Charge It To the Rap Game",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/11_Charge_It_To_the_Rap_Game_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Game Got Switched",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/12_Game_Got_Switched_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Hunter Gets Captured By The Game - 2001 Digital Remaster",
+      "artist": "Blondie",
+      "has_synced": false,
+      "path": "select/13_The_Hunter_Gets_Captured_By_The_Game_-_2001_Digital_Remaster_Blondie.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Game",
+      "artist": "Eminem feat. Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/14_Love_Game_Eminem_feat._Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It's No Game (Pt. 1) - 2017 Remaster",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/15_It's_No_Game_(Pt._1)_-_2017_Remaster_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "It's No Game (No. 1)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/16_It's_No_Game_(No._1)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "It's No Game (Pt. 2) - 2017 Remaster",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/17_It's_No_Game_(Pt._2)_-_2017_Remaster_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "It's No Game (No. 2)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/18_It's_No_Game_(No._2)_David_Bowie.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Game",
+      "artist": "リゼ・ヘルエスタ",
+      "has_synced": false,
+      "path": "select/pl_01_Game_リゼ・ヘルエスタ.txt"
+    }
+  ]
+}
